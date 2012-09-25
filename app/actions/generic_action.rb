@@ -22,4 +22,4 @@ class GenericAction < Action
 end
 
 ###mango#########magy-branch
-
+##########magy
